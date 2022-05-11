@@ -19,5 +19,7 @@ This page took a long time to load so I had to go through and crop/compress the 
 
 Also check out other projects of mine like this one!:
 
+[Rachel Thomas Massage Therapy](https://rachelthomaslmbt.netlify.app/)
+
 [I Bean It Coffee](https://github.com/ChrisThompsonDev/iBeanIt)
 
