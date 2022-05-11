@@ -10,7 +10,7 @@ This is a simple static page for a tattoo shop. Shows off some of the work they 
 
 **Tech used:** HTML, CSS, JavaScript
 
-This started as a template from HTML5UP.net> I modified to fit the the requirements of the project.
+This started as a template from HTML5UP.net. I modified to fit the the requirements of the project.
 
 ## Optimizations
 
